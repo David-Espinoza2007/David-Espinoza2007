@@ -1,6 +1,6 @@
 # David Espinoza
 
-I'm studying Ingeniería en Tecnologías Computacionales at Tecnológico de Monterrey in Mexico. My work includes AI agents, client websites, Python applications, and C++ coursework.
+I'm studying Ingeniería en Tecnologías Computacionales at Tecnológico de Monterrey in Mexico. My work includes AI agents and client websites.
 
 ## Hardware substitution assistant
 
@@ -27,9 +27,3 @@ I built the following websites using **Next.js (React), Tailwind CSS, and Vercel
 - **[Dr. Jorge Álvaro González Ross](https://jorge-alvaro-gonzalez-ross.vercel.app/)** — an endoscopic spine surgeon's website in Guadalajara with procedure information, international training, video content, patient reviews, and a scheduling dialog.
 
 The medical sites integrate +Pacientes scheduling, Google Maps, and WhatsApp contact links.
-
-## Earlier projects
-
-- **[Vaccine cold-chain monitoring](https://github.com/David-Espinoza2007/entregable_01)** — LoRaWAN temperature monitoring for vaccines.
-- **[Piano roadmap](https://github.com/David-Espinoza2007/piano-roadmap)** — a piano learning roadmap as an installable PWA.
-- **[Search and sorting algorithms](https://github.com/David-Espinoza2007/Act-1.2-Algoritmos-de-Busqueda-y-Ordenamiento)** — C++ coursework.
