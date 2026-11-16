@@ -17,6 +17,21 @@ The assistant takes a discontinued part, or a plain-language description of what
 
 **Stack:** Python, Streamlit, Databricks (Foundation Model API, Unity Catalog, Vector Search, MLflow).
 
+## Wildfire record across satellites
+
+**[fire-pulse](https://github.com/David-Espinoza2007/fire-pulse)** · live map: **[Blaze Bridge](https://blazebridge-map.hf.space)**
+
+Team project for the **NASA Space Apps Challenge 2026**, challenge *Harmonization of MODIS and VIIRS Hot Spots*. When newer fire satellites arrived in 2012 and 2018, the yearly fire counts jumped several times over even though there was not that much more fire. Blaze Bridge puts 25 years of NASA FIRMS detections on one comparable scale, using about 50,000 conversion factors by region, season and time of day, so any country, state or drawn area can be checked against its own normal.
+
+My part was the interface:
+
+- a globe and flat map in d3 with three looks, fire drawn by detection density, and zoom down to single 375 m detections;
+- two modes: a clean Presentation view and a Research view with tools for area selection, time ranges, playback and filters;
+- an analysis panel with the fire calendar, the season compared with past years, validation notes and data downloads;
+- the pitch deck and the live demo.
+
+**Stack:** Python, DuckDB, FastAPI, D3, Hugging Face Spaces. Data: NASA FIRMS (MODIS C6.1, VIIRS 375 m).
+
 ## Web development
 
 I built the following websites using **Next.js (React), Tailwind CSS, and Vercel**, with Claude as a development assistant.
