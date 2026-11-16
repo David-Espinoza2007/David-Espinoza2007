@@ -26,7 +26,6 @@ Team project for the **NASA Space Apps Challenge 2026**, challenge *Harmonizatio
 I worked on both the technical side and the interface:
 
 - the harmonization method with my teammate: the conversion between the older and newer satellites, its validation on hidden years, and the data pipeline;
-
 - a globe and flat map in d3 with three looks, fire drawn by detection density, and zoom down to single 375 m detections;
 - two modes: a clean Presentation view and a Research view with tools for area selection, time ranges, playback and filters;
 - an analysis panel with the fire calendar, the season compared with past years, validation notes and data downloads;
